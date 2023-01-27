@@ -33,11 +33,12 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215134010-6fb042bf-7435-4924-85b8-098a83d081f9.png" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src=" />
 <br />
 
-#
+#![Screenshot 2023-01-27 232526](https://user-images.githubusercontent.com/109954610/215134010-6fb042bf-7435-4924-85b8-098a83d081f9.png)
+
 
 ### 📺 Latest YouTube Videos
 

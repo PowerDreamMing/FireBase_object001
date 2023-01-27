@@ -27,6 +27,32 @@ I'm an indie full-stack developer and content creator building my version of the
 </pre>
 
 
+<html>
+<head>
+<script type="text/javascript" src="" charset="UTF-8"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("button").click(function(){
+	var now = new Date(Date.now());
+	var info = now.getHours() + ":" + now.getMinutes() + ":" + now.getSeconds();
+    $("p").html(info); // set the content of p element.
+  });
+});
+</script>
+</head>
+<body>
+
+<button>Change content of p element</button>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
+
+
 
 ![036](https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif)
 

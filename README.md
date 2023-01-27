@@ -77,19 +77,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 <p style="font-size:50px;">I am big</p>
 
 
-<script type="text/javascript" src="" charset="UTF-8"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-  $("button").click(function(){
-	var now = new Date(Date.now());
-	var info = now.getHours() + ":" + now.getMinutes() + ":" + now.getSeconds();
-    $("p").html(info); // set the content of p element.
-  });
-});
-</script>
-</head>
-<body>
 
 <button>Change content of p element</button>
 

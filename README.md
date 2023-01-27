@@ -25,6 +25,38 @@ I'm an indie full-stack developer and content creator building my version of the
                                                                     |___/                                
 
 </pre>
+
+
+
+![036](https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif)
+
+
+
+	<img src="https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif" alt="">
+	<script>![Uploading 036.gif…]()
+
+        var pic = document.querySelector('img');
+		document.addEventListener('mousemove',function(e){
+		var x = e.pageX;
+		var y = e.pageY;
+		console.log('x座標是'+x,'y座標是' +y);
+	    pic.style.left = x +1   + 'px';
+        pic.style.top = y  +1 +'px';
+		
+        });
+	    
+	</script>
+
+
+
+
+
+
+
+
+
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>

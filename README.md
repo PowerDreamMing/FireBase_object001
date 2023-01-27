@@ -14,6 +14,7 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+<pre>
            _____  _____ _____ _____   _______        _      _____ _                   _                  
     /\    / ____|/ ____|_   _|_   _| |__   __|      | |    / ____(_)                 | |                 
    /  \  | (___ | |      | |   | |      | | _____  _| |_  | (___  _  __ _ _ __   __ _| |_ _   _ _ __ ___ 
@@ -23,11 +24,7 @@ I'm an indie full-stack developer and content creator building my version of the
                                                                      __/ |                               
                                                                     |___/                                
 
-<p align="left">                                                                   
-
-
-
-</p>
+</pre>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>

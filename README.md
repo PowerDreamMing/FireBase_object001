@@ -1,5 +1,9 @@
 # FireBase_object001
-Enjoy the Android Studio Code~
+
+
+
+
+# Enjoy the Android Studio Code~
 
 
 

@@ -25,7 +25,7 @@ shortTitle: Edit files
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/GjkPZr)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | none
+[<img align="left" alt="GitHub" width="300px" style="padding-right:100px;" src="https://user-images.githubusercontent.com/109954610/215134577-d86257a9-1105-4a21-9843-15bf066e7ee0.png" />](https://imp.i384100.net/GjkPZr)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | none
 [Python Data Structures](https://imp.i384100.net/python-ds)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Programming for Everybody (Getting Started with Python)
 [Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures
 [Using Databases with Python](https://imp.i384100.net/2rebdg)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data

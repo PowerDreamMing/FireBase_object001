@@ -14,10 +14,6 @@
 ***`用了 RecyclerView.ViewHolder`***
 
 ![ScreenGif2](https://user-images.githubusercontent.com/109954610/215160904-008e0158-c99d-4ddc-8849-fae1819f226b.gif)
-![ScreenGif](https://user-images.githubusercontent.com/109954610/215163477-6f77fb55-e526-4c96-a164-e9dd5fe2afae.gif)
-
-
-
 
 
 A | B | C 
@@ -27,3 +23,8 @@ Level | Star | image
 
 ![圖片3](https://user-images.githubusercontent.com/109954610/215163336-57a0950e-9bb7-41e0-8580-2df03916c9d8.png)
 ![圖片2](https://user-images.githubusercontent.com/109954610/215163342-0b986f9f-b84d-4204-ae13-0c813349e1ec.png)
+
+
+![ScreenGif](https://user-images.githubusercontent.com/109954610/215163477-6f77fb55-e526-4c96-a164-e9dd5fe2afae.gif)
+
+![images](https://user-images.githubusercontent.com/109954610/215163763-2484a1f3-f88c-4911-93f2-1c0ce43f9bbc.jpeg)

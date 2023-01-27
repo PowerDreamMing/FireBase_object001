@@ -102,3 +102,54 @@ fdgdfhfxghxfghfgh
  sdgsdgsdg
  fdsgsdsdg
 
+# <p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+
+
+<script type="text/javascript" src="" charset="UTF-8"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("button").click(function(){
+	var now = new Date(Date.now());
+	var info = now.getHours() + ":" + now.getMinutes() + ":" + now.getSeconds();
+    $("p").html(info); // set the content of p element.
+  });
+});
+</script>
+</head>
+<body>
+
+<button>Change content of p element</button>
+
+<p>This is a paragraph.</p>
+
+
+<html>
+
+
+
+
+
+
+
+
+
+	<img src="https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif" alt="">
+	<script>![Uploading 036.gif…]()
+
+        var pic = document.querySelector('img');
+		document.addEventListener('mousemove',function(e){
+		var x = e.pageX;
+		var y = e.pageY;
+		console.log('x座標是'+x,'y座標是' +y);
+	    pic.style.left = x +1   + 'px';
+        pic.style.top = y  +1 +'px';
+		
+        });
+	    
+	</script>
+</html>
+

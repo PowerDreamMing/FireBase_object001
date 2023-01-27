@@ -1,3 +1,27 @@
+---
+title: Editing files
+intro: 'You can edit files directly on {% data variables.product.product_name %} in any of your repositories using the file editor.'
+redirect_from:
+  - /articles/editing-files
+  - /articles/editing-files-in-your-repository
+  - /github/managing-files-in-a-repository/editing-files-in-your-repository
+  - /articles/editing-files-in-another-user-s-repository
+  - /github/managing-files-in-a-repository/editing-files-in-another-users-repository
+  - /github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-your-repository
+  - /github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
+versions:
+  fpt: '*'
+  ghes: '*'
+  ghae: '*'
+  ghec: '*'
+topics:
+  - Repositories
+shortTitle: Edit files
+---
+
+
+
+
 # 🏄‍♂️ Forrest Knight
 👩‍✈️ 🧑‍✈️ 👨‍✈️ 👩‍🚀 🧑‍🚀 👨‍🚀
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**

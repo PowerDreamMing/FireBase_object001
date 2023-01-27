@@ -22,5 +22,5 @@
 A | B | C | D | E | F
 :-- | :--: | :--: | :--: | :--: | :--:
 [ ](https://...)| b | c | d | e | f
-[<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif" />](https://...)| b | c | d | e | f
+[<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  />][<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  />]|  b | c | d | e | f
 

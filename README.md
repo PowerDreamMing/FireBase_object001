@@ -30,8 +30,8 @@ I'm an indie full-stack developer and content creator building my version of the
 <p style="color:red;">I am red</p>
 <p style="color:blue;">I am blue</p>
 <p style="font-size:50px;">I am big</p>
-<html>
-<head>
+
+
 <script type="text/javascript" src="" charset="UTF-8"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript">

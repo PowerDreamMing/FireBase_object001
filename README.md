@@ -15,7 +15,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+
 
 ### 🧰 Languages and Tools
 
@@ -32,10 +32,9 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="300px" style="padding-right:100px;" src="https://user-images.githubusercontent.com/109954610/215134577-d86257a9-1105-4a21-9843-15bf066e7ee0.png" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215134010-6fb042bf-7435-4924-85b8-098a83d081f9.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src=" />
-<br />
+
 
 #![Screenshot 2023-01-27 232526](https://user-images.githubusercontent.com/109954610/215134010-6fb042bf-7435-4924-85b8-098a83d081f9.png)
 

@@ -16,11 +16,11 @@
 ![ScreenGif2](https://user-images.githubusercontent.com/109954610/215160904-008e0158-c99d-4ddc-8849-fae1819f226b.gif)
 
 
-![036](https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif)
 
 
-A | B | C | D 
-:-- | :--: | :--: | :--: 
-[ ](https://...)| b | c | d 
-|  b | 困難程度 | <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  /><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  /> 
+
+A | B | C 
+:-- | :--: | :--: 
+[ ](https://...)| b | c 
+困難程度 |  3粒星 | <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  /><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  /> 
 

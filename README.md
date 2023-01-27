@@ -1,24 +1,3 @@
----
-title: Editing files
-intro: <img align="left" alt="GitHub" width="300px" style="padding-right:100px;" src="https://user-images.githubusercontent.com/109954610/215134577-d86257a9-1105-4a21-9843-15bf066e7ee0.png" />
-redirect_from:
-  - /articles/editing-files
-  - /articles/editing-files-in-your-repository
-  - /github/managing-files-in-a-repository/editing-files-in-your-repository
-  - /articles/editing-files-in-another-user-s-repository
-  - ![036](https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif)
-  - <img align="left" alt="GitHub" width="300px" style="padding-right:100px;" src="https://user-images.githubusercontent.com/109954610/215134577-d86257a9-1105-4a21-9843-15bf066e7ee0.png" />
-  - /github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-topics:
-  - Repositories
-shortTitle: Edit files
----
-
 ![036](https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif)
 
 ## Programming
@@ -231,7 +210,7 @@ shortTitle: Edit files
 	
 	
 	
-	<h1>The select element</h1>
+	<h7>The select element</h7>
 
 <p>The select element is used to create a drop-down list.</p>
 

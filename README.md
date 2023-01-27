@@ -6,7 +6,7 @@ redirect_from:
   - /articles/editing-files-in-your-repository
   - /github/managing-files-in-a-repository/editing-files-in-your-repository
   - /articles/editing-files-in-another-user-s-repository
-  - /github/managing-files-in-a-repository/editing-files-in-another-users-repository
+  - https://user-images.githubusercontent.com/109954610/215143054-5ae36642-bd7b-4067-b1f6-2ab5726cdd1c.gif
   - /github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-your-repository
   - /github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
 versions:
@@ -18,6 +18,7 @@ topics:
   - Repositories
 shortTitle: Edit files
 ---
+
 
 
 ## Programming

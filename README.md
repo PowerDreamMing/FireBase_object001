@@ -20,6 +20,6 @@
 
 A | B | C | D | E | F
 :-- | :--: | :--: | :--: | :--: | :--:
-[ ](https://...)| b | c | d | e | f
+[https://user-images.githubusercontent.com/109954610/215161384-48b54dd2-2db9-439d-9369-1e83b4f6cba8.gif](https://...)| b | c | d | e | f
 [<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://.gif" />](https://...)| https://user-images.githubusercontent.com/109954610/215161384-48b54dd2-2db9-439d-9369-1e83b4f6cba8.gif https://user-images.githubusercontent.com/109954610/215161384-48b54dd2-2db9-439d-9369-1e83b4f6cba8.gif | c | d | e | f
 

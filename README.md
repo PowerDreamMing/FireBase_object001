@@ -97,31 +97,14 @@ $(document).ready(function(){
 
 
 <html>
+<body>
 
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+Your browser does not support the HTML canvas tag.
+</canvas>
 
-
-
-
-
-
-
-
-	<img src="https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif" alt="">
-	<script>![Uploading 036.gif…]()
-
-        var pic = document.querySelector('img');
-		document.addEventListener('mousemove',function(e){
-		var x = e.pageX;
-		var y = e.pageY;
-		console.log('x座標是'+x,'y座標是' +y);
-	    pic.style.left = x +1   + 'px';
-        pic.style.top = y  +1 +'px';
-		
-        });
-	    
-	</script>
+</body>
 </html>
-
 
 
 

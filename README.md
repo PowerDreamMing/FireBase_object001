@@ -1,6 +1,6 @@
 ---
 title: Editing files
-intro: 'You can edit files directly on {% data variables.product.product_name %} in any of your repositories using the file editor.'
+intro: <img align="left" alt="GitHub" width="300px" style="padding-right:100px;" src="https://user-images.githubusercontent.com/109954610/215134577-d86257a9-1105-4a21-9843-15bf066e7ee0.png" />
 redirect_from:
   - /articles/editing-files
   - /articles/editing-files-in-your-repository

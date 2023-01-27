@@ -97,13 +97,13 @@ $(document).ready(function(){
 
 
 <html>
-<body>
+
 
 <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
 Your browser does not support the HTML canvas tag.
 </canvas>
 
-</body>
+
 </html>
 
 

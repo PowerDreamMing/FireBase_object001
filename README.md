@@ -26,7 +26,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 </pre>
 
-<p>I am normal</p>
+# <p>I am normal</p>
 <p style="color:red;">I am red</p>
 <p style="color:blue;">I am blue</p>
 <p style="font-size:50px;">I am big</p>

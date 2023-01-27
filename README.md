@@ -7,7 +7,7 @@ redirect_from:
   - /github/managing-files-in-a-repository/editing-files-in-your-repository
   - /articles/editing-files-in-another-user-s-repository
   - ![036](https://user-images.githubusercontent.com/109954610/215137769-3b9488a4-0ce4-4900-be7f-acb520977fd2.gif)
-  - /github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-your-repository
+  - <img align="left" alt="GitHub" width="300px" style="padding-right:100px;" src="https://user-images.githubusercontent.com/109954610/215134577-d86257a9-1105-4a21-9843-15bf066e7ee0.png" />
   - /github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
 versions:
   fpt: '*'
